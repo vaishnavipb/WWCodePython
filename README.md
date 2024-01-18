@@ -13,3 +13,5 @@ Day 5: Write a program to find the maximum and minimum values in a list.
 Day 6: Write a program to count the occurrences of a specific character in a string.
 
 Day 7: Write a program to check if a number is positive, negative, or zero.
+
+Day 8: Write a function that accepts a string and calculates the number of uppercase and lowercase letters in it.
