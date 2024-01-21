@@ -19,3 +19,5 @@ Day 8: Write a function that accepts a string and calculates the number of upper
 Day 9: Write a program to check if a number is even or odd.
 
 Day 10: Write a program to remove duplicates from a list.
+
+Day 11: Write a program to print the multiplication table of a given number.
