@@ -21,3 +21,21 @@ Day 9: Write a program to check if a number is even or odd.
 Day 10: Write a program to remove duplicates from a list.
 
 Day 11: Write a program to print the multiplication table of a given number.
+
+Day 12: Write a program to reverse a given string.
+
+Day 13: Write a program to shuffle the elements of a list randomly.
+
+Day 14: Write a program to print the first n numbers of a Fibonacci sequence.
+
+Day 15: Create a program that checks if a year is a leap year.
+
+Day 16: Write a function that counts the frequency of each word in a sentence.
+
+Day 17: Create a program that capitalizes the first letter of each word in a sentence.
+
+Day 18: Create a program to find the largest among three numbers.
+
+Day 19: Write a function to calculate the factorial of a number.
+
+Day 20: Write a function that takes a list of numbers and returns a new list containing only the even numbers.
