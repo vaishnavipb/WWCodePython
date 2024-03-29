@@ -39,3 +39,23 @@ Day 18: Create a program to find the largest among three numbers.
 Day 19: Write a function to calculate the factorial of a number.
 
 Day 20: Write a function that takes a list of numbers and returns a new list containing only the even numbers.
+
+Day 21: Create a program to remove a specific element from a set.
+
+Day 22: Create a program to find the second-largest element in a list.
+
+Day 23: Write a program that checks if a key exists in a dictionary.
+
+Day 24: Write a program to remove vowels from a given string.
+
+Day 25: Create a program to concatenate two lists.
+
+Day 26: Create a program that uses a lambda function to square each element of a list.
+
+Day 27: Create a program that sorts a list of strings alphabetically.
+
+Day 28: Create a program that removes the nth element from a list.
+
+Day 29: Create a function that generates a random number between a given range.
+
+Day 30: Create a function that finds the second smallest element in a list.
