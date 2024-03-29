@@ -79,3 +79,33 @@ Day 38: Write a program to flatten a nested list.
 Day 39: Write a program to find the most common words in a text file.
 
 Day 40: Write a function to find the largest common divisor of two numbers using a function.
+
+Day 41: Write a program that uses recursion to generate all permutations of a list.
+
+Day 42: Write a program that uses a try-except block to handle division by zero.
+
+Day 43: Write a program that removes all whitespaces from a given string.
+
+Day 44: Write a program that reads an integer from the user and handles invalid inputs.
+
+Day 45: Write a function to check if a number is a prime number.
+
+Day 46: Write a function to check if a given list is sorted.
+
+Day 47: Create a program that imports the math module and uses its functions.
+
+Day 48: Create a program that replaces specific words in a text with their synonyms.
+
+Day 49: Create a program that implements the bubble sort algorithm.
+
+Day 50: Create a program that finds the intersection and union of two sets.
+
+Day 51: Create a program that counts the occurrences of each word in a text file.
+
+Day 52: Create a program that checks if a string is a palindrome.
+
+Day 54: Create a function to find all words in a sentence that start with a vowel.
+
+Day 55: Create a function that takes a string and returns the reverse of each word.
+
+Day 57: Create a function that returns the key with the maximum value in a dictionary.
