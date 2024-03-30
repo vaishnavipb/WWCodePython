@@ -104,8 +104,20 @@ Day 51: Create a program that counts the occurrences of each word in a text file
 
 Day 52: Create a program that checks if a string is a palindrome.
 
+Day 53: Create a program that allows users to draw on a canvas using a GUI.
+
 Day 54: Create a function to find all words in a sentence that start with a vowel.
 
 Day 55: Create a function that takes a string and returns the reverse of each word.
 
+Day 56: Create a function to extract all URLs from a given text using regular expressions.
+
 Day 57: Create a function that returns the key with the maximum value in a dictionary.
+
+Day 58: Create a function that converts a string to an integer and handles ValueError.
+
+Day 59: Create a function that checks if a number is a perfect square.
+
+Day 60: Create a class representing a simple bank account with deposit and withdraw methods.
+
+Day 61: Create a program to implement a stack using a list.
